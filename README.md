@@ -1,19 +1,23 @@
-# Site curiosidades
+
+# Estudo de HTML (Site Curiosidades)
 Site com finalidade educativa, utilizando apenas tags HTML.
 
 ### Referência
 Abaixo estão todas as tags do HTML. Embora a documentação seja de fácil acesso em diversos sites como o [MDN](https://developer.mozilla.org/) e o [W3C](https://www.w3schools.com/), elas serão incluídas aqui para facilitar o acesso e ajudar no estudo.
 
 ---
+
 ### Tags
-As principais tags serão melhor exploradas com mais informações: tag, descrição, atributos e exemplos.
+As principais tags serão melhor exploradas com mais informações: descrição, atributos e exemplos.
+
+---
 
 ### [Tags básicas]
 **`<!DOCTYPE>`**
 
  Define o tipo do documento. Todo documento HTML precisa iniciar com esta declaração(não é uma tag). Ela informa ao browser o tipo de documento esperado. Esta declaração é válida para HTML5, versões antigas como HTML 4 e HTML tem um formato diferente. 
  
-##### Exemplo
+#### Exemplo
 ```html
 <!DOCTYPE html>
 <html>
@@ -226,12 +230,146 @@ Define uma variável.
 Define uma possível quebra de linha.
 
 ### Formulários e entrada de dados
+
+---
+
 ### Frames
+
+---
+
 ### Imagens
+
+---
+
 ### Audio / Vídeo
+
+---
+
 ### Links
+
+---
+
+**`<a>`**
+Define um hyperlink.
+
+**`<link>`**
+
+Define uma relação entre o documento e um recurso externo (o mais usado é o link para *style sheets*)
+
+**`<nav>`**
+
+Define links de navegação.
+
+---
+
 ### Listas
+
+---
+
 ### Tabelas
+
+---
+
 ### Estilo e Semântica
+
+**`<style>`**
+
+Define informações de estilo para um documento.
+
+**`<div>`**
+
+Define uma seção em um documento.
+
+**`<span>`**
+
+Define uma seção em um documento.
+
+**`<header>`**
+
+Define um cabeçalho para um documento ou seção.
+
+**`<footer>`**
+
+Defiine um rodapé para um documento ou seção.
+
+**`<main>`**
+
+Especifica o conteúdo principal do documento.
+
+**`<section>`**
+
+Define uma seção em um documento.
+
+**`<article>`**
+
+Define um artigo.
+
+**`<aside>`**
+
+Define um conteúdo secundário para o conteúdo principal da página.
+
+**`<details>`**
+
+Define detalhes adicionais que o usuário pode ver ou esconder.
+
+**`<dialog>`**
+
+Define uma caixa de diálogo ou janela.
+
+**`<summary>`** 
+
+Define um cabeçalho visível para o elemento **`<details>`**.
+
+**`<data>`**
+Adiciona uma tradução legível para máquinas a um determinado conteúdo.
+
+---
+
 ### Meta informação
+
+**`<head>`**
+
+Define informações sobre o documento.
+
+**`<meta>`**
+
+Define metadados sobre o documento HTML.
+
+**`<base>`**
+
+Especifica a base URL/target ara todas URLs relativas do documento.
+
+**`<basefont>`**
+
+Não suportada pelo HTML5. Use CSS ao invés desta tag.  
+Especifica os padrões de cor, tamanho e fonte de todos os textos em um documento.
+
+---
+
 ### Programação
+
+**`<script>`**
+
+Define um script *client-side*.
+
+**`<noscript>`**
+
+Define um conteúdo alternado para usuários que não tem suporte a scripts *client-side*.
+
+**`<applet>`**
+
+Não mais suportado em HTML5. Use **`<embed>`** or **`<object>`** ao invés dela.
+Define um *applet* embutido.
+
+**`<embed>`**
+
+Define um container para uma aplicação externa (não HTML).
+
+**`<object>`**
+
+Define um objeto embutido.
+
+**`<param>`**
+
+Define um parâmetro para um objeto.
+
