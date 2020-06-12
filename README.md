@@ -26,155 +26,203 @@ As principais tags serão melhor exploradas com mais informações: tag, descri�
 </html>
 ```
 ---
-**`<html>`** 
+**`<html>`**
+ 
 Define um documento HTML. 
 
-**`<head>`**	
+**`<head>`**
+	
 Contém meta-dados e informações para o documento.
 
-**`<title>`**	
+**`<title>`**
+	
 Define um título para o documento.
 
-**`<body>`**	
+**`<body>`**
+	
 Define o um corpo para o documento.
 
 **`<h1>`** to **`<h6>`**
+
 Define os cabeçálhos para o HTML.
 
-**`<p>`**	
+**`<p>`**
+	
 Define um parágrafo.
 
 **`<br>`**
+
 Insere uma quebra de linha.
 
-**`<hr>`**	
+**`<hr>`**
+	
 Define uma mudança temática no conteúdo.
 
-**`<!--...-->`**	
+**`<!--...-->`**
+	
 Define um comentário.
 
 ### Tags de formatação
 
 **`<acronym>`**
+
 *Não suportada pelo HTML5. Use `<abbr>` instead.*
 Define uma sigla.
 
 **`<abbr>`**
+
 Define uma abreviação ou uma sigla.
 
 **`<address>`**
+
 Define informações de contato do autor ou dono do documento ou artigo.
 
 **`<b>`**
+
 Define o texto em negrito.
 
 **`<bdi>`**
+
 Isola uma parte do texto que pode ser formatada em uma direção diferente do outro texto fora dele.
 
 **`<bdo>`**
+
 Substitui a direção atual do texto.
 
 **`<big>`**
+
 *Não suportada no HTML5. Use CSS ao invés desta tag.*
 
 **`<blockquote>`**
+
 Define uma seção que é cidata em outra fonte.
 
 **`<center>`**
+
 *Não suportada no HTML5. Use CSS ao invés desta tag.*
 Define texto centralizado.
 
 **`<cite>`**
+
 Define o título de uma obra.
 
 **`<code>`**
+
 Define uma pedaço de código de computador.
 
 **`<del>`**
+
 Define um texto que foi deletado do documento.
 
 **`<dfn>`**
+
 Especifica um termo que será definido dentro do conteúdo da página.
 
 **`<em>`**
+
 Define um texto enfatizado.
 
 **`<font>`**
+
 *Não suportada no HTML5. Use CSS ao invés desta tag.*
 Define fonte, cor e tamanho do texto.
 
 **`<i>`**
+
 Define uma parte do texto com voz ou entonação alternativa.
 
 **`<ins>`**
+
 Define um texto novo que foi inserido.
 
 **`<kbd>`**
+
 Define uma entrada do teclado.
 
 **`<mark>`**
+
 Define um texto marcado/destacado.
 
 **`<meter>`**
+
 Define uma medida escalar dentro de um intervalo conhecido (um medidor)
 
 **`<pre>`**
+
 Define texto pre-formatado.
 
 **`<progress>`**
+
 Representa o progresso de uma tarefa.
 
 **`<q>`**
+
 Define uma citação curta.
 
 **`<rp>`**
+
 Define o que mostrar ao browser que não suporta *ruby anotations*.
 
 **`<rt>`**
+
 Define uma explicação/pronúncia de caracteres.  (para a tipografia do Leste Asiático).
 
 **`<ruby>`**
+
 Define uma *ruby annotation* (para a tipografia do Leste Asiático)
 
 **`<s>`**
+
 Define um texto que não está mais correto.
 
 **`<samp>`**
+
 Define uma amostra  de uma saída de um programa de computador.
 
 **`<small>`**
+
 Define um texto pequeno.
 
 **`<strike>`**
+
 *Não mais suportado no HTML5. Use `<del>` or `<s>` instead.*
 Define um texto riscado/apagado do conteúdo.
 
 **`<strong>`**
+
 Define um texto importante
 
 **`<sub>`**
+
 Define um texto subscrito.
 
 **`<sup>`**
+
 Define um texto sobrescrito.
 
 **`<template>`**
+
 Define um container para conteúdo que deve ser escondido quando a página carrega.
 
 **`<time>`**
+
 Define uma hora ou data específica.
 
 **`<tt>`**
+
 *Não suportada no HTML5. Use CSS ao invés dela.*
 Define um texto *teletype*.
 
 **`<u>`**
+
 Define um texto não relacionado e estilizado de forma diferente do texto normal.
 
 **`<var>`**
+
 Define uma variável.
 
 **`<wbr>`**
+
 Define uma possível quebra de linha.
 
 ### Formulários e entrada de dados
