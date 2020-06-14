@@ -1,4 +1,5 @@
 
+
 # Estudo de HTML (Site Curiosidades)
 Site com finalidade educativa, utilizando apenas tags HTML.
 
@@ -238,6 +239,38 @@ Define uma possível quebra de linha.
 ---
 
 ### Imagens
+
+**`<img>`**
+
+Define uma imagem
+
+**`<map>`**
+
+Define um *image-map* do lado do cliente
+
+**`<area>`**
+
+Define uma área dentro de um *image-map*
+
+**`<canvas>`**
+
+Usado para desenhar gráficos, *on the fly*, via script (normalmente JavaScript)
+
+**`<figcaption>`**
+
+Define uma *caption* para o elemento  **`<figure>`**.
+
+**`<figure>`**
+
+Especifica um conteúdo independente.
+
+**`<picture>`**
+
+Define um container com multiplos recursos de imagens.
+
+**`<svg>`**
+
+Define um container para gráficos SVG.
 
 ---
 
